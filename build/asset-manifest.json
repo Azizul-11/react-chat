@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2aae5074.css",
+    "main.js": "/static/js/main.9f5372ad.js",
+    "static/js/787.6f726199.chunk.js": "/static/js/787.6f726199.chunk.js",
+    "static/media/closeIcon.png": "/static/media/closeIcon.140bd6f552a1553e0b35.png",
+    "static/media/sendlogo.png": "/static/media/sendlogo.fec4cc3d99d0feef5d95.png",
+    "static/media/logo.png": "/static/media/logo.fbddba1f7abaa818f476.png",
+    "index.html": "/index.html",
+    "main.2aae5074.css.map": "/static/css/main.2aae5074.css.map",
+    "main.9f5372ad.js.map": "/static/js/main.9f5372ad.js.map",
+    "787.6f726199.chunk.js.map": "/static/js/787.6f726199.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aae5074.css",
+    "static/js/main.9f5372ad.js"
+  ]
+}
